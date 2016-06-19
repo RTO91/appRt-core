@@ -8,6 +8,10 @@ namespace ADW
 {
     class Program
     {
+        /// <summary>
+        /// Star method
+        /// </summary>
+        /// <param name="args">Starting arguments</param>
         static void Main(string[] args)
         {
             Console.WriteLine("Initial app v.0.1");
