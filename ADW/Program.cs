@@ -14,6 +14,7 @@ namespace ADW
         /// <param name="args">Starting arguments</param>
         static void Main(string[] args)
         {
+	    //test comment
             Console.WriteLine("Initial app v.0.1");
         }
     }
